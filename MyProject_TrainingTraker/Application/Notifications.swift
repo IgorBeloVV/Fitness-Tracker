@@ -33,8 +33,8 @@ class Notifications: NSObject {
         calendar.timeZone = time
         
         var triggerDate = calendar.dateComponents([.year, .month, .day], from: date)
-        triggerDate.hour = 13
-        triggerDate.minute = 02
+        triggerDate.hour = 14
+        triggerDate.minute = 00
         
         let trigger = UNCalendarNotificationTrigger(dateMatching: triggerDate, repeats: false)
         
