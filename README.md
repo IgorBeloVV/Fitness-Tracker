@@ -17,3 +17,21 @@ FitHub напоминает вам о предстоящих тренировк�
 
 5. Статистика и Прогресс:
 Оценивайте свой прогресс, анализируйте данные тренировок за неделю, месяц, и следите за общим прогрессом на экране профиля.
+
+***Внешний вид приложения***
+
+Запуск приложения после установки:
+
+![start](https://github.com/IgorBeloVV/Fitness-Tracker/blob/master/Screenshots/startScreen.png?raw=true "start")
+
+Получение разрешений на отслеживание геолокиции и отправку уведомлений: 
+
+![permissions](https://github.com/IgorBeloVV/Fitness-Tracker/blob/master/Screenshots/permissions.png "permissions")
+
+Основные экраны приложения: 
+
+![mainScreen](https://github.com/IgorBeloVV/Fitness-Tracker/blob/master/Screenshots/mainScreen.png "mainScreen")
+
+Экран добавления упражнения и его удаление:
+
+![addWorkout](https://github.com/IgorBeloVV/Fitness-Tracker/blob/master/Screenshots/addWorkout.png "addWorkout")
