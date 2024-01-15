@@ -35,3 +35,9 @@ FitHub напоминает вам о предстоящих тренировк�
 Экран добавления упражнения и его удаление:
 
 ![addWorkout](https://github.com/IgorBeloVV/Fitness-Tracker/blob/master/Screenshots/addWorkout.png "addWorkout")
+
+Презентация:
+
+<img src="https://github.com/IgorBeloVV/Fitness-Tracker/blob/master/Screenshots/video.gif" alt="video" width="300" height="auto"> 
+
+
